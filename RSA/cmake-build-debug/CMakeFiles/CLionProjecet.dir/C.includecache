@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/RSA/main.c
+stdio.h
+D:/RSA/stdio.h
+stdlib.h
+D:/RSA/stdlib.h
+string.h
+D:/RSA/string.h
+
